@@ -126,7 +126,7 @@ Data was loaded as a **connection only** into the **Power Pivot Data Model** to 
 us-product-sales-dashboard-excel/
 ├── README.md
 ├── /data
-│   └── product_sales_dataset_final.csv
+│   └── product_sales_dataset_sample.csv
 ├── /screenshots
 │   └── US_Product_Sales_Full_Dashboard.png
 └── /workbook
