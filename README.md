@@ -134,6 +134,50 @@ us-product-sales-dashboard-excel/
 
 > 📁 **Dataset** (200,000 rows — exceeds GitHub upload limit)
 > 👉 [Download from Kaggle](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)
+
+---
+
+## 🖼️ Dashboard Screenshots
+
+### Full Dashboard — 2023 & 2024 Combined
+![Full Dashboard](screenshots/US_Product_Sales_Full_Dashboard.png)
+> All slicers unfiltered — shows combined 2-year view with all KPIs, charts, and slicers active.
+
+---
+
+### 2023 Dashboard — Year Filtered
+![2023 Dashboard](screenshots/US_Product_Sales_2023_Dashboard.png)
+> Year slicer set to 2023. Monthly trend shows steady growth through the year peaking in Nov–Dec 2023. Top product: Tempur-Pedic Mattress.
+
+---
+
+### 2024 Dashboard — Year Filtered
+![2024 Dashboard](screenshots/US_Product_Sales_2024_Dashboard.png)
+> Year slicer set to 2024. Revenue values roughly double 2023 figures, consistent with the 101.27% YoY growth. Top product: Tempur-Pedic Mattress holds position across both years.
+
+---
+
+### East Region — Region Filtered
+![East Region Dashboard](screenshots/US_Product_Sales_East-Region_Dashboard.png)
+> Region slicer set to East. East accounts for 20.50% of overall profit margin share, which is low when compare to other regions.
+
+---
+
+### Region Profit Margin % — Donut Chart
+![Region Pivot Chart](screenshots/US_Product_Sales_Region_Pivot_Chart.png)
+> Profit margin % breakdown across all 4 US regions. South leads at 23.58%, followed by West (22.94%), Centre (22.43%), and East (20.50%) — showing that the highest-revenue region carries the lowest profit margin.
+
+---
+
+### Category Pivot Table & Chart
+![Category Pivot Table and Chart](screenshots/US_Product_Sales_Category_Pivot_table-chart.png)
+> Revenue, profit, and margin breakdown by category. Electronics leads revenue at $57,485,698 but records the lowest margin at 14%. Accessories achieves the highest margin at 34% despite the lowest revenue — the most capital-efficient category.
+
+---
+
+### Sub-Category Pivot Table & Chart
+![Sub-Category Pivot Table and Chart](screenshots/US_Product_Sales_Sub-Category_Pivot_table-chart.png)
+> Drill-down across all 19 sub-categories. Laptops lead revenue within Electronics at $12,358,319 while Bedding tops Home & Furniture at $13,042,783. All Clothing & Apparel sub-categories maintain consistent margins around 32–33%, compared to Electronics sub-categories clustered at 14%.
 ---
 
 ## 🚀 How to Use
